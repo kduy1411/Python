@@ -1,48 +1,6 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "alkline_metals.txt",
-      "provenance": [],
-      "collapsed_sections": [],
-      "authorship_tag": "ABX9TyMTKY8pJlqiq0159EOJvqZ6",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/kduy1411/Python/blob/main/Lab03/alkline_metals.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "fENVpBFbLjqo"
-      },
-      "source": [
-        "beryllium 4 9.012\n",
-        "magnesium 12 24.305\n",
-        "calcium 20 20.078\n",
-        "strontium 38 87.62\n",
-        "barium 56 137.327\n",
-        "radium 88 226"
-      ],
-      "execution_count": null,
-      "outputs": []
-    }
-  ]
-}
+beryllium 4 9.012
+magnesium 12 24.305
+calcium 20 20.078
+strontium 38 87.62
+barium 56 137.327
+radium 88 226
